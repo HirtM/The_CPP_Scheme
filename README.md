@@ -11,3 +11,5 @@ The different jupyter notebooks iclude:
 - CPdetection_summary.ipynb: This notebook illustrates some examples and results of the cold pool detection as well as the mask that is used in the detection algorithm to exclude the Alpes.  (Provided by C. Sackrenz)
 - 15_ColdPooldetection.ipynb: This notebook shows some further analyses of the cold pool detection outcomes and also produces the corresponding plot used in the paper. 
 
+
+The different pyhton scripts include utility functions used in the notebooks, e.g. plotting functions, diagnostics functions, ...
