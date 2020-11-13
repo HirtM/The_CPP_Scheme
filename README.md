@@ -9,5 +9,5 @@ The different jupyter notebooks iclude:
 - 
 - 19_Parameter_Sensitivity.ipynb: In this notebook, several CPP parameters are modified and the change of the CPP impact evaluated. 
 - CPdetection_summary.ipynb: This notebook illustrates some examples and results of the cold pool detection as well as the mask that is used in the detection algorithm to exclude the Alpes. 
--22_CPimpact_evaluation.ipynb: This notebook shows some further analyses of the cold pool detection outcomes and also produces the corresponding plot used in the paper. 
+- 15_ColdPooldetection.ipynb: This notebook shows some further analyses of the cold pool detection outcomes and also produces the corresponding plot used in the paper. 
 
